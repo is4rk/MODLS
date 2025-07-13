@@ -10,7 +10,8 @@
 
 ## 📚 Table of Contents
 - [About](#about)
-- [Features](#features)
+- [Why I'm Building This](#why-im-building-this)
+- [Key Goals](#key-goals)
 
 ## 🧠 About
 This repository begins as my Summer 2025 coding project.
