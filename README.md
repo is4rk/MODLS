@@ -1,8 +1,13 @@
 # ModSync
 <p align="center">
-<img width="512" height="512" alt="database-svgrepo-com" src="https://github.com/user-attachments/assets/6ee31f03-dd1d-4702-8672-7bef154916d0" />
+<img width="250" height="250" alt="database-svgrepo-com" src="https://github.com/user-attachments/assets/81648352-db97-4ad0-9a57-730c90862577" />
 </p>
-Multi-OS & Devices Local Sync
+<p align="center", style="bold">    
+    <b>Multi-OS & Devices Local Sync</b>
+</p>
+
+
+
 ## 📚 Table of Contents
 - [About](#about)
 - [Features](#features)
