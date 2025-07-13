@@ -16,7 +16,7 @@
 ## 🧠 About
 This repository begins as my Summer 2025 coding project.
 
-The goal is to build a cross-platform tool that syncs selected folders across multiple devices—over a local Wi-Fi network—without relying on third-party cloud services.
+The goal is to build a cross-platform tool that syncs selected folders across multiple devices—over a local network—without relying on third-party cloud services.
 The tool is designed to work seamlessly across multiple operating systems, including Linux (Arch) and iPadOS, allowing users to maintain folder parity across devices.
 
 ## 🌍 Why I'm Building This
